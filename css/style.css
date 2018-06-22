@@ -1,0 +1,23 @@
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+
+.space-blue {
+    background-color: #09046a;
+}
+
+.space-blue-text {
+    color: #09046a;
+}
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+main {
+    flex: 1 0 auto;
+}
